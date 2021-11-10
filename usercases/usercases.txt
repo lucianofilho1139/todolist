@@ -1,0 +1,29 @@
+Documentation
+UX Research:
+
+Theme:
+They appreciate easy set up
+They want to be able to add tasks to their todo list simply and quickly
+They are heavily distracted by social media
+They tend to lose track of time
+
+User cases:
+
+UC-1 Create a new task
+Select the TextField called "new task"
+Write the name of the "new task"
+Click in the button called "add" to add a "new task"
+Save the new task in a table
+
+UC-2 View all the tasks
+View all the tasks created
+
+UC-3 Delete a task
+Press some task
+Drop to the left
+Create a validade to confirm delite
+Then delite the task
+
+UC-4 Mark a task as done
+Press some task as done
+Show the task as done
