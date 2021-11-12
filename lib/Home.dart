@@ -24,7 +24,7 @@ class _HomeState extends State<Home> {
     Widget build(BuildContext context) {
       return Scaffold(
         appBar: AppBar(
-          title: Text("Consumo de serviços WEB"),
+          title: Text("Consumo dedd serviços WEB"),
         ),
         body: Container(
             padding: EdgeInsets.all(40),
@@ -35,12 +35,4 @@ class _HomeState extends State<Home> {
               ],
             )),
       );
-    }
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    // TODO: implement build
-    throw UnimplementedError();
-  }
-}
+      }
